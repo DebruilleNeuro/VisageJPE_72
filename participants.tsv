@@ -1,0 +1,75 @@
+participant_id	participant_label	age	sex	handedness	group 	MGF	AQ	BPAQ	BPAQ Subset	Relationship
+sub-001	01H1	19	m	right	feltalone	7,8	12	60	13	Siblings
+sub-002	01H2	21	f	right	feltalone	7,9	10	45	12	Siblings
+sub-003	02H1	19	f	right	feltinpresence	7,61	14	74	16	Friends
+sub-004	02H2	19	f	right	feltalone	7,8	17	52	12	Friends
+sub-005	03H1	21	m	right	feltinpresence	6,8	5	68	19	Friends
+sub-006	03H2	21	f	right	feltinpresence	7,5	18	64	13	Friends
+sub-007	04H1	19	m	right	feltalone	7,8	22	79	41	Friends
+sub-008	04H2	19	m	right	feltinpresence	7,4	15	102	39	Friends
+sub-009	05H1	19	m	right	feltinpresence	6	11	84	26	Friends
+sub-010	05H2	19	f	right	feltinpresence	7	3	52	15	Friends
+sub-011	06H2	18	f	right	feltinpresence	7,2	12	56	13	Friends
+sub-012	07H2	21	f	right	feltalone	6,3	12	45	9	Siblings
+sub-013	08H1	19	m	right	feltinpresence	6,5	15	83	24	Friends
+sub-014	08H2	18	m	right	feltinpresence	6,4	10	50	11	Friends
+sub-015	09H1	19	f	right	feltalone	5,9	12	58	16	Friends
+sub-016	09H2	19	f	right	feltinpresence	5,3	9	72	16	Friends
+sub-017	10H1	18	m	right	feltalone	6,9	11	70	26	Friends
+sub-018	10H2	18	m	right	feltinpresence	7,8	13	50	10	Friends
+sub-019	11H1	21	m	right	feltalone	5,7	13	64	14	Friends
+sub-020	11H2	21	f	right	feltalone	6,9	9	72	20	Friends
+sub-021	12H1	23	f	right	feltalone	6,8	4	43	10	Friends
+sub-022	12H2	22	f	right	feltalone	5,8	19	90	23	Friends
+sub-023	13H1	20	f	right	feltinpresence	7,2	14	85	23	Friends
+sub-024	13H2	20	f	right	feltinpresence	6,8	23	78	16	Friends
+sub-025	14H1	21	f	right	feltinpresence	6,6	24	92	20	Siblings
+sub-026	14H2	23	f	right	feltalone	7,3	15	59	12	Siblings
+sub-027	15H1	20	f	right	feltalone	7,7	19	69	15	Friends
+sub-028	15H2	20	f	right	feltinpresence	7,8	8	53	11	Friends
+sub-029	16H1	19	f	right	feltalone	7,7	8	42	12	Romantic partners
+sub-030	16H2	21	m	right	feltalone	6,4	14	85	25	Romantic partners
+sub-031	17H1	21	m	right	feltinpresence	7	10	60	16	Romantic Partners
+sub-032	17H2	21	f	right	feltalone	7,8	22	56	13	Romantic Partners
+sub-033	18H1	20	f	right	feltalone	7,5	12	96	32	Friends
+sub-034	18H2	21	f	right	feltinpresence	7,8	10	67	24	Friends
+sub-035	19H1	28	m	right	feltalone	8	8	55	13	Siblings
+sub-036	19H2	27	m	right	feltalone	6,9	17	66	27	Siblings
+sub-037	20H1	22	m	right	feltalone	7,3	18	74	27	Friends
+sub-038	20H2	19	m	right	feltinpresence	5,7	17	106	38	Friends
+sub-039	21H1	18	f	right	feltinpresence	6,9	15	55	16	Friends
+sub-040	21H2	18	f	right	feltalone	7,1	21	78	20	Friends
+sub-041	22h1	21	f	right	feltalone	6,3	21	59	19	Friends
+sub-042	22h2	22	f	right	feltinpresence	7,8	24	68	19	Friends
+sub-043	23h1	25	f	right	feltinpresence	7,5	26	72	15	Friends
+sub-044	23h2	26	f	right	feltalone	7	30	78	16	Friends
+sub-045	24h1	24	f	right	feltinpresence	7	21	86	25	Friends
+sub-046	24h2	25	f	right	feltalone	7	15	61	14	Friends
+sub-047	25h1	19	f	right	feltinpresence	7,4	14	46	10	Friends
+sub-048	25h2	20	f	right	feltalone	7,8	21	50	10	Friends
+sub-049	26h1	18	m	right	feltalone	7,3	22	93	29	Friends
+sub-050	26h2	19	f	right	feltinpresence	nan	22	90	31	nan
+sub-051	27h1	19	f	right	feltalone	8	16	66	16	Friends
+sub-052	27h2	20	f	right	feltalone	7,8	13	73	19	Friends
+sub-053	28h1	22	f	right	feltinpresence	7,2	13	47	11	Siblings
+sub-054	28h2	22	f	right	feltinpresence	6,7	13	49	12	Siblings
+sub-055	29h1	22	f	right	feltinpresence	7,5	18	62	16	Siblings
+sub-056	29h2	22	f	right	feltalone	6,7	30	44	12	Siblings
+sub-057	30h1	22	f	right	feltalone	7,6	9	51	12	Friends
+sub-058	30h2	21	f	right	feltinpresence	7,2	15	108	32	Friends
+sub-059	31h1	28	f	right	feltalone	6,2	13	58	17	Friends
+sub-060	31h2	28	f	right	feltalone	8	13	43	13	Friends
+sub-061	32h1	23	m	right	feltinpresence	nan	20	54	19	nan
+sub-062	32h2	23	f	right	feltinpresence	6,8	22	81	19	Friends
+sub-063	33h1	21	f	right	feltalone	6,1	27	75	17	Friends
+sub-064	33h2	21	f	right	feltalone	nan	19	61	15	nan
+sub-065	34h1	27	f	right	feltalone	7,8	15	84	23	Friends
+sub-066	34h2	29	f	right	feltinpresence	7,7	11	68	20	Friends
+sub-067	35h1	23	f	right	feltalone	7,9	14	54	15	Friends
+sub-068	35h2	22	f	right	feltalone	7,8	27	49	12	Friends
+sub-069	36h1	22	f	right	feltalone	6,2	19	73	13	Friends
+sub-070	36h2	22	f	right	feltinpresence	6,5	26	62	10	Friends
+sub-071	37h1	23	f	right	feltinpresence	6,7	14	67	16	Friends
+sub-072	37h2	22	f	right	feltalone	6,6	7	60	13	Friends
+										
+REJECTED 6H1, 7H2										

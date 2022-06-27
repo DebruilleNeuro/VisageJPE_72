@@ -1,0 +1,9 @@
+{
+  "Softwarename": "SPSS",
+  "Softwareversion": "SPSS Version 26 ",
+  "Tests performed": [
+    "RepeatedMeasures Anova on all subjects",
+    "RMAnova on subset copyright",
+    "Ttests on subset"
+  ]
+}

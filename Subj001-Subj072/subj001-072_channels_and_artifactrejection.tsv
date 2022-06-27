@@ -1,0 +1,73 @@
+subjectnumber	subjectID	Electrode recalculation	data acquisition notes	 # of accepted trials Bin 1	# of accepted trials Bin 2	Electrode recalculation formula
+sub-001	1H1			97	99	
+sub-002	1H2			100	100	
+sub-003	2H1			100	100	
+sub-004	2H2			100	100	
+sub-005	3H1			81	70	
+sub-006	3H2			74	60	
+sub-007	4H1			100	98	
+sub-008	4H2			100	100	
+sub-009	5H1			99	99	
+sub-010	5H2			99	98	
+sub-011	6H2			100	100	
+sub-012	7H2			100	100	
+sub-013	8H1		EDF split in 2	100	100	
+sub-014	8H2	ft7	EDF split in 2	100	100	ch17 =(ch4+ch13)/2
+sub-015	9H1	tp7		99	100	ch24 =(ch13+ch11)/2
+sub-016	9H2					
+sub-017	10H1			88	90	
+sub-018	10H2	T4, fT7, tp7 FC3		99	100	ch24 =(ch13+ch11)/2 ch17 =(ch4+ch13)/2 ch19 =((1/2)*ch17+ch15+(1/2)*ch20+ch22)/3 ch12 =(ch16+ch23)/2
+sub-019	11H1			96	95	
+sub-020	11H2			78	85	
+sub-021	12H1		EDF split in 2	100	100	
+sub-022	12H2		EDF split in 2	100	100	
+sub-023	13H1			95	94	
+sub-024	13H2			97	99	
+sub-025	14H1			97	98	
+sub-026	14H2			96	100	
+sub-027	15H1			94	94	
+sub-028	15H2			81	84	
+sub-029	16H1			90	79	
+sub-030	16H2			82	98	
+sub-031	17H1			99	98	
+sub-032	17H2			95	98	
+sub-033	18H1		EDF split in 2	100	100	
+sub-034	18H2		EDF split in 2	100	100	
+sub-035	19H1	c3 ft7		100	93	ch17 =(ch4+ch13)/2 ch22 =(ch19+ch26+(1/2)*ch13+(1/2)*ch6)/3
+sub-036	19H2			100	99	
+sub-037	20H1		EDF split in 2	100	100	
+sub-038	20H2		EDF split in 2	100	100	
+sub-039	21H1	f3		91	96	ch15 =(ch19+(1/2)*ch4+(1/2)*ch5)/2
+sub-040	21H2			99	96	
+sub-041	22h1			100	100	
+sub-042	22h2			100	96	
+sub-043	23h1	ft7		75	75	ch17 =(ch4+ch13)/2
+sub-044	23h2			99	100	
+sub-045	24h1			92	95	
+sub-046	24h2			99	100	
+sub-047	25h1			99	97	
+sub-048	25h2			98	99	
+sub-049	26h1			99	97	
+sub-050	26h2			74	84	
+sub-051	27h1	ft7		90	89	ch17 =(ch4+ch13)/2
+sub-052	27h2			100	100	
+sub-053	28h1			98	100	
+sub-054	28h2	F4		100	100	ch14 =(ch18+(1/2)*ch5+(1/2)*ch3)/2
+sub-055	29h1			95	85	
+sub-056	29h2	ft7		90	95	ch17 =(ch4+ch13)/2
+sub-057	30h1			99	99	
+sub-058	30h2			97	92	
+sub-059	31h1			99	89	
+sub-060	31h2			99	100	
+sub-061	32h1	Cp3		55	63	ch26 =(ch22+ch9)/2
+sub-062	32h2			92	98	
+sub-063	33h1			86	95	
+sub-064	33h2			72	89	
+sub-065	34h1			98	95	
+sub-066	34h2			96	97	
+sub-067	35h1	Ft7		56	57	ch17 =(ch4+ch13)/2
+sub-068	35h2			100	100	
+sub-069	36h1			55	67	
+sub-070	36h2			92	91	
+sub-071	37h1			84	86	
+sub-072	37h2			100	94	

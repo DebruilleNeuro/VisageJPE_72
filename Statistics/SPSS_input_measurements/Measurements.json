@@ -1,0 +1,26 @@
+{
+  "Measurements": {
+    "Description": "Mean amplitude between two fixed latencies",
+    "Measurement Window": {
+      "1": "75, 150",
+      "2": "200, 300",
+      "3": "350, 550",
+      "4": "550, 900"
+    }
+  },
+  "EEGLAB PARAMETERS FOR ERP Measurement Tool": {
+    "Type": "Mean amplitude between two fixed latencies",
+    "Interpolation factor": "1",
+    "Bins & channels": "empty",
+    "Measurement Window": {
+      "1": "75, 150",
+      "2": "200, 300",
+      "3": "350, 550",
+      "4": "550, 900"
+    },
+    "Sheet description": {
+      "Sheet1": "Measurements for all participants, at all time windows",
+      "Sheet2": "Measurements for a subset of participants n=15, at 2 time windows (350-550ms,550-900ms. Characteristics of group under Copyright see Readme in main"
+    }
+  }
+}
