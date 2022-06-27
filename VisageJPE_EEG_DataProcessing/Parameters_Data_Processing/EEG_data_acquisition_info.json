@@ -1,0 +1,17 @@
+{
+  "InstitutionName": "Institut universitaire en santé mentale Douglas (Douglas Mental Health University Institute)",
+    "InstitutionAddress": "6875 Bd LaSalle, Verdun, QC H4H 1R3",
+  "InstitutionalDepartmentName": "Cognitive and social neuroscience laboratory",
+  "TaskName": "Visage",
+    "Manufacturer": "ElectroCap",
+  "RecordingType": "continuous",
+  "ManufacturersModelName": "Standard 10-20 28",
+  "EEGReference": "A2", 
+  "EEGGround": "frontal-center, placed between Fz and Fp1/FP2" 
+  "PowerLineFrequency": "50",
+  "EEGChannelCount": "32",
+   "TriggerChannelCount": "4",
+  "RecordingType": "continuous",
+  "SamplingFrequency": "256",
+  "SoftwareFilters": "40"
+}

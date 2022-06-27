@@ -1,0 +1,16 @@
+[{
+    "EEGLAB": [
+        {
+            "Version": "eeglabv2019.1"
+            "Plugins": [
+                1,Biosig3.7.9
+                2,IClabel
+                3,ADJUST1.1
+                4,clean_rawdata
+                5,dipfit
+                6,ERPLAB8.10
+                7,firlfilt
+            ]
+            "Add-on": "Signal Processing Toolbox",
+             "MATLAB": "R2017b"
+}]
