@@ -1,10 +1,3 @@
-
-
-Screen('DrawText',win1,'+',295,445,0,255,[],[]);
-Screen('DrawText',win1,'+',842,445,0,255,[],[]);
-Screen('Flip', win1);
-
-
-    x=(200+rand(1)*1000)/1000
-
-WaitSecs(x)
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e321fc85b2d7eb97e799ec8e715f6b6d0f5f9c0f77eb52103dce37c0c882f7
+size 167

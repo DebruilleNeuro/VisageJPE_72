@@ -1,19 +1,3 @@
-%%Blink
-
-Screen('DrawText',win1,' ',250,420,[255,0,0],255,[],[]);
-Screen('Flip', win1);
-x=(1000+rand(1)*700)/1000
-WaitSecs(x);
-
-Screen('DrawText',win1,'BLINK!',250,420,[255,0,0],255,[],[]);
-Screen('DrawText',win1,'BLINK!',865,420,[255,0,0],255,[],[]);
-Screen('Flip', win1);
-WaitSecs(0.5);
-
-Screen('DrawText',win1,' ',250,420,[255,0,0],255,[],[]);
-Screen('Flip', win1);
-
-WaitSecs(1.3);
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e0d2b2f8a252ff9d043dcb4ca65dc9cf55a204f32c330135ba148bee1064fa
+size 407
