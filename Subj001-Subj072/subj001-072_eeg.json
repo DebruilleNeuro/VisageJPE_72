@@ -7,7 +7,7 @@
   "RecordingType": "continuous",
   "ManufacturersModelName": "Standard 10-20 28",
   "EEGReference": "A2", 
-  "EEGGround": "frontal-center, placed between Fz and Fp1/FP2" 
+  "EEGGround": "placed between Fz and Fp1/FP2, center-front" 
   "PowerLineFrequency": "50",
   "EEGChannelCount": "32",
    "TriggerChannelCount": "4",
